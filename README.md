@@ -54,9 +54,6 @@ git clone https://github.com/JayeshChauhhan/ImportExport-ERP.git
 7. Open browser:
 http://localhost:8080/ImportExport-ERP
 
-🖼 Project Screenshots
-
-## 🖼 Project Screenshots
 
 ## 🖼 Project Screenshots
 
