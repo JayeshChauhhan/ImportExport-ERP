@@ -61,22 +61,22 @@ http://localhost:8080/ImportExport-ERP
 ## 🖼 Project Screenshots
 
 ### 📊 Dashboard
-![Dashboard](images/dashboard_image.png)
+![Dashboard](Images/dashboard_image.png)
 
 ### 🔐 Login Page
-![Login Page](images/login_image.png)
+![Login Page](Images/login_image.png)
 
 ### 🛒 Order Page
-![Order Page](images/order_image.png)
+![Order Page](Images/order_image.png)
 
 ### 📦 Product Page
-![Product Page](images/product_image.png)
+![Product Page](Images/product_image.png)
 
 ### 📝 Register Page
-![Register Page](images/register_image.png)
+![Register Page](Images/register_image.png)
 
 ### 📄 Reported Module
-![Reported Module](images/reported_image.png)
+![Reported Module](Images/reported_image.png)
 
 
 
